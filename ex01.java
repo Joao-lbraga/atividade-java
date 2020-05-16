@@ -12,7 +12,7 @@ public class ex01 {
 				total = total + i;
 			}
 		}
-		System.out.println("O total é: " + total );
+		System.out.println("O total Ã© : " + total );
 	}
 	
 }
