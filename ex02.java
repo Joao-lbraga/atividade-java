@@ -9,8 +9,6 @@ public class ex02 {
 				if (i % 11 == 0 || i % 11 == 5) {
 				System.out.println(i);
 				}
-			
 			}
 		}
-
 }
